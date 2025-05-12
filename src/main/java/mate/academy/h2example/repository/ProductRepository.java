@@ -1,4 +1,4 @@
-package mate.academy.h2example.model.repository;
+package mate.academy.h2example.repository;
 
 import mate.academy.h2example.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
